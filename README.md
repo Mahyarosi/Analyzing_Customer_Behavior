@@ -61,8 +61,7 @@ The interactive dashboard provides a high-level overview of the key metrics.
 *   **Sales by Country** on a map or bar chart.
 *   Interactive filters for Date Range, Country, and Product.
 
-![Screenshot of Power BI Dashboard](<img width="895" height="487" alt="CusotmerBehvaiorDashboard" src="https://github.com/user-attachments/assets/69e7dca6-f9c8-40dc-a949-a28b3b9fa235" />
-)
+![Screenshot of Power BI Dashboard](https://github.com/Mahyarosi/Analyzing_customer_behavior/blob/main/CusotmerBehvaiorDashboard.png)
 
 ---
 **Contact**
