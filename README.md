@@ -36,7 +36,7 @@ The analysis was conducted in a structured, multi-stage process:
     *   Corrected inconsistent data formats (e.g., dates, categories).
     *   Removed duplicate entries and irrelevant data points to ensure data quality for analysis.
 
-4.  **SQL Analysis (MySQL):**
+4.  **SQL Analysis (SQL):**
     *   The cleaned dataset was exported and imported into a MySQL database.
     *   Wrote and executed complex SQL queries to answer key business questions, such as:
         *   "What are the top 10 best-selling products?"
